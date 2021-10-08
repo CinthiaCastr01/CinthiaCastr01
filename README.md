@@ -1,10 +1,4 @@
 
-💻 Generation Brasil 
-
-✅ #opentowork
-
-##
-
  <div>
   <a href="https://github.com/cinthiacastr01">
   <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=cinthiacastr01&show_icons=true&theme=bear&include_all_commits=true&count_private=true" />
@@ -32,6 +26,8 @@
   <a href = "mailto:mouracinthia1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cinthia-castro-165100160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+##
+
 ![Snake animation] (https://github.com/CinthiaCastr01/CinthiaCastr01/blob/output/github-contribution-grid-snake.svg)
 
  <div>  
@@ -39,6 +35,4 @@
 
 
  
-
-
  
