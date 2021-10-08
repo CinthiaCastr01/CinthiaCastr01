@@ -1,4 +1,16 @@
 
+Olá! Eu sou a Cinthia Castro 📍 Desenvolvedora full stack.
+
+##
+
+📌 São Paulo
+
+💻 Generation Brasil 
+
+✅ #opentowork
+
+##
+
  <div>
   <a href="https://github.com/cinthiacastr01">
   <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=cinthiacastr01&show_icons=true&theme=bear&include_all_commits=true&count_private=true" />
@@ -28,11 +40,8 @@
 
 ##
 
-![Snake animation] (https://github.com/CinthiaCastr01/CinthiaCastr01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CinthiaCastr01/CinthiaCastr01/blob/output/github-contribution-grid-snake.svg)
 
  <div>  
  
 
-
- 
- 
