@@ -32,12 +32,13 @@ Olá! Eu sou a Cinthia Castro 📍 Desenvolvedora full stack.
 </div>
 
   <img align = "right" alt = "Evelyn-pic" height = "100" src = "https://share-cdn.picrew.me/shareImg/org/202110/338224_GwkNeVTA.png">
+
+![Snake animation] (https://github.com/CinthiaCastr01/CinthiaCastr01/blob/output/github-contribution-grid-snake.svg)
  
  ##
  
  <div>  
  
-![Snake animation] (https://github.com/CinthiaCastr01/CinthiaCastr01/blob/output/github-contribution-grid-snake.svg)
-</div>
- 
+
+
  
