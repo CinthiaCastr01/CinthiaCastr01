@@ -36,6 +36,7 @@ Olá! Eu sou a Cinthia Castro 📍 Desenvolvedora full stack.
  ##
  
  <div>  
-! [ Animação de cobra ] (https://github.com/CinthiaCastr01/CinthiaCastr01/blob/output/github-contribution-grid-snake.svg)
+ 
+! [ Snake animation ] (https://github.com/CinthiaCastr01/CinthiaCastr01/blob/output/github-contribution-grid-snake.svg)
 </div>
  
