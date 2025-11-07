@@ -1,13 +1,9 @@
-## <h1 align="center"> Olá! Eu sou a Cinthia Castro 📍 Desenvolvedora Java Junior </h1>
+## <h1 align="center"> Olá! Eu sou a Cinthia Castro 📍 Scrum Master Nivel I </h1>
 
 
 ##
 
 📌 São Paulo
-
-💻 Generation Brasil 
-
-✅ #opentowork
 
 ##
 
